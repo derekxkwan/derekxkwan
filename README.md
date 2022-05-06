@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on (online) cs grad school things: Knowledge-Based AI
+- 🔭 I’m currently working on (online) cs grad school things: Educational Technology
 - 🌱 I’m currently learning knowledge-based AI, Rust (very slowly), and Japanese (very very slowly)
 - 👯 I’m looking to collaborate on music and art things, AI things (also willing to collaborate with the MVP)
 - 💬 music and art things (computer and not-computer related), AI things
