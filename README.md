@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on (online) cs grad school things: Educational Technology
-- 🌱 I’m currently learning Educational Technology things, Rust (very slowly), and Japanese (very very slowly)
+- 🔭 I’m currently working on (online) cs grad school things: Machine Learning, Software Development Process
+- 🌱 I’m currently learning ML and SDP things, Rust (very slowly), and Japanese (very very slowly)
 - 👯 I’m looking to collaborate on music and art things, AI things (also willing to collaborate with the MVP)
 - 💬 music and art things (computer and not-computer related), AI things
 - 📫 How to reach me: [Mastodon](https://post.lurk.org/@mrufrufin), [Twitter](https://twitter.com/derekxkwan), [LinkedIn](https://www.linkedin.com/in/derek-kwan-568bb67/), [Instagram](https://www.instagram.com/dxkzh/), [SoundCloud](https://soundcloud.com/dxkzh), [Bandcamp](https://derekxkwan.bandcamp.com/)
