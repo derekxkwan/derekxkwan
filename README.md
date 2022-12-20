@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on (online) cs grad school things: Machine Learning, Software Development Process
+- 🔭 I’m currently working on (online) cs grad school things: Deep Learning
 - 🌱 I’m currently learning ML and SDP things, Rust (very slowly), and Japanese (very very slowly)
 - 👯 I’m looking to collaborate on music and art things, AI things (also willing to collaborate with the MVP)
 - 💬 music and art things (computer and not-computer related), AI things
